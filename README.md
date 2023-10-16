@@ -31,4 +31,4 @@ contract MyToken {
         totalSupply -= value;
         balances[sender] -= value;
     }
-}
+} 
